@@ -1,16 +1,16 @@
 # pocketo-app
 
-A clone version of the Pocket web app.
+A clone version of the [Pocket](https://getpocket.com/) web app.
 
 Nice to see you here. I'm Vu Tong from the Pocketo team.
 
-I want to develop Pocketo into a high-quality open-source software (OSS), focus on documentation, code quality, architecture, testing, and deployment.
+I want to develop Pocketo into a high-quality open-source software (OSS), focusing on documentation, code quality, architecture, testing, and deployment.
 
 Feel free to submit an issue or send a pull request.
 
 ## Getting started
 
-We use Trello, Google Drive, GitHub, and Docker Hub for the project. Check out the links below, which are available for everyone.
+We use Trello, Google Drive, GitHub, and Docker Hub for project management. Check out the links below, which are available for everyone.
 
 https://trello.com/w/pocketo_app
 
@@ -24,6 +24,6 @@ https://hub.docker.com/r/tonghoangvu/pocketo-backend
 
 ## References
 
-Visit Pocketo tech blog at https://blog.pocketo.win/.
+Visit the Pocketo Engineering blog at https://blog.pocketo.win/.
 
 <a target="_blank" href="https://icons8.com/icon/114039/plus">Plus</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>.
