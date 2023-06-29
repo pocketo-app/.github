@@ -12,18 +12,14 @@ Feel free to submit an issue or send a pull request.
 
 We use Trello, Google Drive, GitHub, and Docker Hub for project management. Check out the links below, which are available for everyone.
 
-https://trello.com/w/pocketo_app
+[trello.com/w/pocketo_app](https://trello.com/w/pocketo_app)
 
-https://drive.google.com/drive/folders/1WjfrCko9GMHrHMrFVkU9h1alY3k6eozX?usp=share_link
+[drive.google.com/drive/folders/1-tgACN9Ec1iQfsDpczUOvZJKt-KXKhLc?usp=sharing](https://drive.google.com/drive/folders/1-tgACN9Ec1iQfsDpczUOvZJKt-KXKhLc?usp=sharing)
 
-https://github.com/pocketo-app
-
-https://hub.docker.com/r/tonghoangvu/pocketo-web
-
-https://hub.docker.com/r/tonghoangvu/pocketo-backend
+[github.com/pocketo-app](https://github.com/pocketo-app)
 
 ## References
 
-Visit the Pocketo Engineering blog at https://blog.pocketo.win/.
+Visit the Pocketo Engineering blog at [blog.pocketo.win](https://blog.pocketo.win).
 
 <a target="_blank" href="https://icons8.com/icon/114039/plus">Plus</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>.
